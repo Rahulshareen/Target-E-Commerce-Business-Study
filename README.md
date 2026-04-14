@@ -1,5 +1,5 @@
 # Target-E-Commerce-Business-Study
-Below is the analysis on Target E commerce Data
+Below is the analysis on Target E commerce Data:
 
 Analyzed 100K+ orders across 4,119 cities and 27 states, identifying business growth from 2016 to 2018.
 
