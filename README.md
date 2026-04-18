@@ -1,6 +1,6 @@
 # Target-E-Commerce-Business-Study
 
-🎯 Target Brazil — E-Commerce SQL Analysis
+🎯 Target Brazil - E-Commerce SQL Analysis
 
 SQL business case study on 100,000 orders placed on Target's Brazilian platform (2016–2018), analysing customer behaviour, delivery logistics, payment trends, and revenue growth across 27 states.
 
